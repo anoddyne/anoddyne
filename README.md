@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @anoddyne
-- 🌱 I’m currently learning C++ and Python
-- 📫 You can text me in Telegram @childiwillhurtyou
+- 🌱 I’m currently learning C#
+- 📫 You can reach me in Telegram @childiwillhurtyou
